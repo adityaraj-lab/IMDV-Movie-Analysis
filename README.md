@@ -1,1 +1,1 @@
-# IMDV-Movie-Anylysis
+# IMDV-Movie-Analysis
